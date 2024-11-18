@@ -1,0 +1,6 @@
+# Ignore all .mp4 files
+*.mp4
+
+# Ignore any subfolder named 'wandb' recursively
+**/wandb/
+
